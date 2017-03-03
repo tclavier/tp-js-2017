@@ -1,0 +1,23 @@
+Date des TP : 27/01, 02/02, 09/02, 16/02, 02/03
+
+Nom                   Git JS1 JS2 JS3 JS4 Total
+AIT_ELHAJ_Azzedine    4   1   1   1   1   8
+BELS_Alexis           4   1   1   1   1   8
+BEUNS_Vianney         4   1   1   1   0   7
+BOREE_Cyprien         3   1   1   1   0   6
+CANTA_Carmelo         3   1   1   1   0   6
+CHOUKHI_Sofian        2   1   1   1   0   5
+COLLOT_Louis-Arthur   2   1   1   1   1   6
+DEVASSINE_Alexandre   2   1   1   1   0   5
+DUQUESNE_Romain       4   1   1   0   0   6
+GERARD_Cyril          0   0   1   0   0   1
+HOURDEAU_Antoine      1   1   1   0   0   3
+JEDRZEJAK_William     0   1   1   1   0   3
+LAFFILÉ_Hugo          2   1   1   1   0   5
+PELLERIN_Alexandre    3   1   1   1   0   7
+PLOUVIN_Margot        1   1   1   1   0   4 
+REGNIER_Kévin         0   1   1   0   0   2   
+TIHIANINE_Adel        0   1   0   0   0   1
+VANRENTERGHEM_Anthony 4   1   1   1   0   7
+VASSEUR_Samson        0   1   1   0   0   2 
+
